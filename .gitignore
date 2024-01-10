@@ -1,0 +1,7 @@
+node_modules
+.env
+.env *
+
+/Server/node_modules
+/Client/exp-client/node_modules
+/Client/exp-client/node_modules
